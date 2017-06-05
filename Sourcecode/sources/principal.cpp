@@ -1,15 +1,3 @@
-/*
- * alexrese@outlook.com
- *
- * Links:
- *    1. https://www.ime.usp.br/~gold/cursos/2009/mac5758/AndreBuscaTabu.pdf
- *
- * Dúvidas:
- *    1. Medir o tempo de execução em microsegundos?
- *    2. PrimeiraMelhora implementado diferente do sugerido pelo Santiago.
- *    3. BuscaTabu. O que compõe o espaço de busca? Como implementar?
- */
-
 #include <iostream>
 #include <ctime>
 #include <vector>
